@@ -52,3 +52,4 @@ Enjoy!!!
 
 * https://stackoverflow.com/questions/3922739/limit-text-length-to-n-lines-using-css. This stackoverflow post saved my life.
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2. A very complete template for README.md files.
+* https://undraw.co/search. An excellent place to find images for your site. The image used in this example was downloaded from 'undraw'.
