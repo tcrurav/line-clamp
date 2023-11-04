@@ -1,8 +1,10 @@
 # CSS Ellipsis for more than one line is called line-clamp
 
-For more than one line textoverflow: ellipsis doesn't work. You must use line-clamp. This is an examnple using this CSS feature.
+For more than one line ``text-overflow: ellipsis`` doesn't work. You must use ``line-clamp``. This is an examnple using this CSS feature.
 
 ![screenshots](https://github.com/tcrurav/line-clamp/blob/master/screenshots/screenshot-01.png)
+
+
 
 ## Getting Started
 
